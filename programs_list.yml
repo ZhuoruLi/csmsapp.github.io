@@ -42,6 +42,7 @@
       - MSCS@Duke
       - MSCS@GaTech
       - MSCSE@UMich
+      - MCS@UIUC
       - MSCS@NWU
     NONCS:
       - MDSAI@Waterloo
@@ -60,7 +61,6 @@
 - A-:
     CS:
       - ScM CS@Brown
-      - MCS@UIUC
       - MSCS@Columbia
       - MSCS@Dartmouth
       - MSCS@UCSB
